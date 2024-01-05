@@ -18,6 +18,7 @@ These are the skills I've learned either alone or in school. I'm always open to 
 ### 🌐 On the web
 - HTML, CSS/SASS, JS/TS
 - Vue.js 2 & 3, Nuxt.js 2 & 3
+- Svelte.js 4 with SvelteKit
 - TailwindCSS, Bulma, Bootstrap
 - Backend development with PHP, Flask(Python), Express and NestJS(Javascript)
 
